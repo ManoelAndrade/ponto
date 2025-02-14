@@ -1,0 +1,26 @@
+body{
+ background-color: #0e79c8;
+ font-family: 'Courier New', Courier, monospace;
+
+}
+.cls-titulo{
+    margin-top: -5%;
+    font-size: 25px; 
+    
+}
+
+.cls-geral{
+    background-color: white;
+    border: 1px solid black;
+    margin-top: 5%;
+    padding: 10%;
+    border-radius: 50px;
+    box-shadow: 1px 1px black;
+}
+td{
+    padding-right: 10px;
+}
+.cls-table{
+    
+    
+}
