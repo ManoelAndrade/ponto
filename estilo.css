@@ -5,11 +5,12 @@ body{
 }
 .cls-titulo{
     margin-top: -5%;
-    font-size: 25px; 
+    font-size: 55px; 
     
 }
 
 .cls-geral{
+    display: inline-block;
     background-color: white;
     border: 1px solid black;
     margin-top: 5%;
